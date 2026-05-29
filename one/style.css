@@ -1,0 +1,87 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+
+html,
+body {
+  width:  100%;
+  height: 100%;
+  
+}
+
+.main {
+  height: 120%;
+  width: 100%;
+  background: linear-gradient(135deg, #32142b 0%, #0f0e36 100%);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+h2{ color: whitesmoke;
+    position: absolute;
+    top :4%;
+    left: 3%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+p{ color: whitesmoke;
+    position: absolute;
+    top :4%;
+    left: 80%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.container{
+    width:  100%;
+    height: 80%;
+    margin-left: 100px;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+}
+
+.card {
+  width: 20%;
+  background-color: #25213f;
+  border: 1px solid #423a63;
+  border-radius: 24px;
+  padding: 16px;
+  font-family: sans-serif;
+}
+
+
+.card-img {
+  width: 100%;
+  aspect-ratio: 1 / 1;
+  border-radius: 16px;
+  object-fit: cover;
+}
+
+.card-text-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 14px 0;
+}
+
+.title {
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+}
+
+.likes {
+  color: #a29db8;
+  font-size: 13px;
+}
+.bid-btn {
+  width: 100%;
+  background: transparent;
+  border: 2px solid #8f61cb;
+  color: white;
+  padding: 10px;
+  border-radius: 20px;
+  font-weight: bold;
+}
