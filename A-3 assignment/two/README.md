@@ -6,6 +6,10 @@ This project was created as part of my frontend practice to improve layout build
 
 > 🚧 Learning Project
 
+## 🌐 Live Demo
+
+https://assignment4-rho-three.vercel.app/
+
 ---
 
 ## ✨ Features
@@ -42,11 +46,6 @@ This project was created as part of my frontend practice to improve layout build
 ---
 
 ## 📸 Preview
-
----
-
-## 🌐 Live Demo
-
 
 ---
 
