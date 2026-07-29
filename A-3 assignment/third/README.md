@@ -8,6 +8,13 @@ This project was created as part of my frontend practice to improve layout compo
 
 ---
 
+## 🌐 Live Demo
+view the page
+
+https://assignment4-f9yj.vercel.app/
+
+
+---
 ## ✨ Features
 
 - Cinematic hero section
@@ -43,12 +50,6 @@ This project was created as part of my frontend practice to improve layout compo
 ## 📸 Preview
 
 (Add screenshot here)
-
----
-
-## 🌐 Live Demo
-
-(Add your Vercel link here)
 
 ---
 
